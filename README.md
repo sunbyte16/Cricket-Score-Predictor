@@ -316,5 +316,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 </div>
-#   C r i c k e t - S c o r e - P r e d i c t o r  
+#   C r i c k e t - S c o r e - P r e d i c t o r 
+ 
  
